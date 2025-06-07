@@ -1,2 +1,8 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 Assignment2_question/data/상권정보_서울_202403_18cols.csv filter=lfs diff=lfs merge=lfs -text
+pda_3w/data/*.csv filter=lfs diff=lfs merge=lfs -text
+pda_4w/data/*.csv filter=lfs diff=lfs merge=lfs -text
+pda_5w/data/*.csv filter=lfs diff=lfs merge=lfs -text
+pda_6w/data/*.csv filter=lfs diff=lfs merge=lfs -text
+pda_7w/data/*.csv filter=lfs diff=lfs merge=lfs -text
+pda_11w/data/*.csv filter=lfs diff=lfs merge=lfs -text
