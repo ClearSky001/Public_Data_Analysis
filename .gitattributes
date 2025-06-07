@@ -1,1 +1,2 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+Assignment2_question/data/상권정보_서울_202403_18cols.csv filter=lfs diff=lfs merge=lfs -text
